@@ -40,4 +40,4 @@
       (search_for_primes (+ from 1) count))
     (display "Done\n")))
 
-(search_for_primes 10000000 0)
+#| (search_for_primes 10000000 0) |#
